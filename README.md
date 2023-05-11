@@ -5,4 +5,4 @@ dashboard public link - https://public.tableau.com/views/Book2Dashboardstory_168
 
 story public link - https://public.tableau.com/views/Book2Dashboardstory_16837934214780/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-video demonstartion link - 
+video demonstartion link - https://drive.google.com/file/d/1rOcxdSUzL2OIrAleyrhZhGClLRcyioO7/view
